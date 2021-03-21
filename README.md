@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-最近プログラミングが趣味です！
 
 <!--
 **cota-eng/cota-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
